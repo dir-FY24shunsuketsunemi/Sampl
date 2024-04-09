@@ -9,7 +9,7 @@ public class Compare {
 		
 		System.out.println("a > b は" + (a > b));
 		System.out.println("a < b は" + (a < b));
-		
+					
 	}
 
 }
